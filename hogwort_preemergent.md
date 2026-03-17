@@ -20,16 +20,18 @@
 
 ---
 
-## 12-Acre Treatment Calculator
+## 10-Acre Treatment Calculator
+
+*(12 total acres minus 2 tree-filled acres = 10 sprayable acres)*
 
 | | Low Rate (19 oz/acre) | High Rate (24 oz/acre) |
 |---|---|---|
-| **GrazonNext HL needed** | 228 fl oz (1.78 gal) | 288 fl oz (2.25 gal) |
-| **Buy** | **2 gallons** | **3 gallons** (to have margin) |
-| **Tank fills (25 gal)** | 12 fills | 12 fills |
-| **Annual limit check** | 228 oz ÷ 12 ac = 19 oz/ac ✓ | 288 oz ÷ 12 ac = 24 oz/ac ✓ |
+| **GrazonNext HL needed** | 190 fl oz (1.48 gal) | 240 fl oz (1.875 gal) |
+| **Buy** | **2 gallons** | **2 gallons** |
+| **Tank fills (25 gal)** | 10 fills | 10 fills |
+| **Annual limit check** | 190 oz ÷ 10 ac = 19 oz/ac ✓ | 240 oz ÷ 10 ac = 24 oz/ac ✓ |
 
-> Annual limit is 34 fl oz/acre — both rates are well within bounds. Max you could legally apply across all 12 acres in a year is **408 fl oz (3.19 gal)**.
+> Annual limit is 34 fl oz/acre — both rates are well within bounds. Max you could legally apply across all 10 acres in a year is **340 fl oz (2.66 gal)**.
 
 ---
 
