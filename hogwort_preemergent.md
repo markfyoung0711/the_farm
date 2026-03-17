@@ -35,6 +35,12 @@
 
 ---
 
+## License Requirements
+
+> **GrazonNext HL requires a pesticide applicator license** in most states for commercial/agricultural use. Verify your state's requirements before purchasing or applying.
+
+---
+
 ## Key Rules
 
 - **One full 25-gal tank covers approximately 1 acre**

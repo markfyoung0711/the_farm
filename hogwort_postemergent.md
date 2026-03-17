@@ -38,6 +38,12 @@ Post-emergent herbicides work on actively growing broadleaf weeds and brush. App
 
 ---
 
+## License Requirements
+
+> **2,4-D requires a pesticide applicator license** in most states for commercial/agricultural use. Verify your state's requirements before purchasing or applying.
+
+---
+
 ## General Notes
 
 - This mix covers **1 acre (209 x 209 ft)** per tank
