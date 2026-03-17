@@ -26,6 +26,18 @@ Post-emergent herbicides work on actively growing broadleaf weeds and brush. App
 
 ---
 
+## 10-Acre Quantity Calculator
+
+*(10 tank fills of 25-gal North Star sprayer)*
+
+| Product | Per Acre | 10 Acres | Buy |
+|---|---|---|---|
+| **2,4-D** | 1 qt (32 oz) | 10 qt (2.5 gal) | **3 gallons** |
+| **Remedy** | 8 oz | 80 oz (2.5 qt) | **3 quarts** |
+| **Surfactant** | 8 oz | 80 oz (2.5 qt) | **3 quarts** |
+
+---
+
 ## General Notes
 
 - This mix covers **1 acre (209 x 209 ft)** per tank
