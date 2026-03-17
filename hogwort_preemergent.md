@@ -45,6 +45,6 @@
 
 - **One full 25-gal tank covers approximately 1 acre**
 - **Do not exceed 34 fl oz per acre per year**
-- Apply when goat weed seedlings are **under 2 inches tall** for best results
+- Apply when goatweed is **4–8 inches tall** for best post-emergent results *(per Clint Perkins, Master Gardener, Texas A&M AgriLife)*
 - Do **not** spray near vegetable gardens — this product carries over in soil and can kill tomatoes, beans, potatoes
 - Keep livestock off treated area until spray has dried

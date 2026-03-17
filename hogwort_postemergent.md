@@ -50,3 +50,4 @@ Post-emergent herbicides work on actively growing broadleaf weeds and brush. App
 - If the mixture stands over **4 hours**, re-agitate before spraying
 - Mix only what you'll use in a single day's work
 - Remedy is **not a pre-emergent** — follow up as new seedlings emerge
+- Apply when goatweed is **4–8 inches tall** for best post-emergent results *(per Clint Perkins, Master Gardener, Texas A&M AgriLife)*
