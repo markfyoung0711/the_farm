@@ -1,4 +1,4 @@
-# Hogwort (Goatweed) - Pre-Emergent Treatment
+# Hogwort (Goatweed) - GrazonNext HL Treatment
 
 ## GrazonNext HL — 25 Gallon Tank Mix
 
@@ -45,6 +45,6 @@
 
 - **One full 25-gal tank covers approximately 1 acre**
 - **Do not exceed 34 fl oz per acre per year**
-- Apply when goat weed seedlings are **under 2 inches tall** for best pre-emergent/early post results
+- Apply when goat weed seedlings are **under 2 inches tall** for best results
 - Do **not** spray near vegetable gardens — this product carries over in soil and can kill tomatoes, beans, potatoes
 - Keep livestock off treated area until spray has dried
